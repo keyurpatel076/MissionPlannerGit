@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache

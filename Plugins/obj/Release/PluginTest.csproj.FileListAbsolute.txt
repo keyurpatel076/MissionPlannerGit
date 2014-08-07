@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\bin\Release\PluginTest.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\bin\Release\PluginTest.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Release\PluginTest.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Release\PluginTest.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Release\PluginTest.pdb

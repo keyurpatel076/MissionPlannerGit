@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Debug\plugins\PluginTest.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Debug\plugins\PluginTest.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Debug\PluginTest.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Debug\PluginTest.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Plugins\obj\Debug\PluginTest.pdb
+C:\Work\Personal\MissionPlanner\Plugins\obj\Debug\PluginTest.csprojResolveAssemblyReference.cache
+C:\Work\Personal\MissionPlanner\Plugins\obj\Debug\PluginTest.pdb
+C:\Work\Personal\MissionPlanner\bin\Debug\plugins\PluginTest.dll
+C:\Work\Personal\MissionPlanner\bin\Debug\plugins\PluginTest.pdb
+C:\Work\Personal\MissionPlanner\Plugins\obj\Debug\PluginTest.dll
+C:\Sandeep\Work\MissionPlanner\Plugins\obj\Debug\PluginTest.csprojResolveAssemblyReference.cache
+C:\Sandeep\Work\MissionPlanner\bin\Debug\plugins\PluginTest.dll
+C:\Sandeep\Work\MissionPlanner\bin\Debug\plugins\PluginTest.pdb
+C:\Sandeep\Work\MissionPlanner\Plugins\obj\Debug\PluginTest.dll
+C:\Sandeep\Work\MissionPlanner\Plugins\obj\Debug\PluginTest.pdb

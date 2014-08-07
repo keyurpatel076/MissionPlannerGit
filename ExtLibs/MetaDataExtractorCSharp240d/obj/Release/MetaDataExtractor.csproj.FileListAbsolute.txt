@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\exif.xslt
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\sampleFile.xml
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractor.dtd
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractorNew.dtd
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.csprojResolveAssemblyReference.cache

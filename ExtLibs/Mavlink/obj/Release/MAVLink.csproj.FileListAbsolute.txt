@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Release\MAVLink.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Release\MAVLink.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.csprojResolveAssemblyReference.cache

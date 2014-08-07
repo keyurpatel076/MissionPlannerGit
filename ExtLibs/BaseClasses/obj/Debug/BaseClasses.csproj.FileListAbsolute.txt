@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Work\Personal\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Work\Personal\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Work\Personal\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache

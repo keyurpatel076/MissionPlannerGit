@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Release\AviFile.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Release\AviFile.dll

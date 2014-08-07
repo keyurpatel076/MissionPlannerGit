@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Work\Personal\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Work\Personal\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb

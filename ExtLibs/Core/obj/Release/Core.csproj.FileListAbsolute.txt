@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Core\bin\Release\Core.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Core\bin\Release\Core.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.pdb

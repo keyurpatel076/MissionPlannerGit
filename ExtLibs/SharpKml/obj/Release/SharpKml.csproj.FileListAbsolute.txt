@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Release\SharpKml.XML
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Release\SharpKml.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Release\SharpKml.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Release\Ionic.Zip.Reduced.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Release\SharpKml.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Release\SharpKml.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Release\SharpKml.pdb

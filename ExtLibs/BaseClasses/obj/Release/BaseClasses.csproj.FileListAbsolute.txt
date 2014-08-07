@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Release\BaseClassesNET.dll.config
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Release\BaseClassesNET.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Release\BaseClassesNET.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Release\BaseClassesNET.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Release\BaseClassesNET.pdb

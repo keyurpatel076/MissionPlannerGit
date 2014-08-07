@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\ArdupilotMegaPlanner10.exe.config
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\ArdupilotMegaPlanner10.exe
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\ArdupilotMegaPlanner10.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Release\ArdupilotMegaPlanner10.exe
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Release\ArdupilotMegaPlanner10.pdb

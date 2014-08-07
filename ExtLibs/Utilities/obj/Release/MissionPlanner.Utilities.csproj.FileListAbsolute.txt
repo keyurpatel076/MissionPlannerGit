@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\MissionPlanner.Utilities.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\MissionPlanner.Utilities.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\AWSSDK.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GeoUtility.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GMap.NET.Core.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GeoUtility.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GeoUtility.xml
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GMap.NET.Core.xml
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\obj\Release\MissionPlanner.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\obj\Release\MissionPlanner.Utilities.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Utilities\obj\Release\MissionPlanner.Utilities.pdb

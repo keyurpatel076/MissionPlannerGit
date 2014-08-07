@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\bin\Release\ZedGraph.XML
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\bin\Release\ZedGraph.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\bin\Release\ZedGraph.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Release\ZedGraph.pdb

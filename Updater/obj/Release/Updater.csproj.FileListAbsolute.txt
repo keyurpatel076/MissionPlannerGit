@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\Updater.exe.config
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\Updater.exe
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.exe

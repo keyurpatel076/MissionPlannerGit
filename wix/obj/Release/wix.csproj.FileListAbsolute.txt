@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Msi\licence.rtf
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Msi\wix.exe.config
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\Msi\wix.exe
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\wix\obj\Release\wix.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\wix\obj\Release\wix.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\wix\obj\Release\wix.exe
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\wix\obj\Release\wix.csprojResolveAssemblyReference.cache

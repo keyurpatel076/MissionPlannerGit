@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Grid.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Grid.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.zh-Hans.resources
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb

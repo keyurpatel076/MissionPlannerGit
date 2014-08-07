@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Release\KMLib.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Release\KMLib.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Release\Core.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Release\Core.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Stats.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Stats.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.pdb

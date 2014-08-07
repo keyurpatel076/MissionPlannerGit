@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\Users\Lenovo\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Work\Personal\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb
+C:\Work\Personal\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\Work\Personal\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\Work\Personal\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Sandeep\Work\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\Sandeep\Work\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\Sandeep\Work\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\Sandeep\Work\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb
